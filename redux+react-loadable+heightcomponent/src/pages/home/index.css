@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    cursor: pointer;
+}
+
+.btn{
+    background: green;
+    color: #fff;
+}
+span{
+    font-size: 20px;
+    margin-left: 20px;
+   
+}
+p{
+    margin-top: 20px;
+    margin-left: 14px;
+}
