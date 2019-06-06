@@ -1,0 +1,181 @@
+.top {
+  display: flex;
+  width: 100%;
+  background: #53ab3a;
+  color: #fff;
+  align-items: center;
+  height: 40px;
+  font-size: 18px;
+}
+.top-1 {
+  width: 60%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.iconfont {
+  background: #000;
+  font-size: 30px;
+}
+.wrap {
+  width: 100%;
+  overflow: hidden;
+}
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.img {
+  width: 30px;
+  height: 30px;
+}
+.wrap {
+  width: 100%;
+}
+
+.swiper {
+  width: 100%;
+}
+.image {
+  width: 100%;
+}
+.slide {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  box-sizing: border-box;
+  padding: 12px 18px;
+  margin-top: 20px;
+}
+.slide ul {
+  width: 48px;
+  height: 48px;
+  font-size: 12px;
+}
+.slide ul img {
+  width: 50px;
+  height: 46px;
+}
+.h1 {
+  margin-top: 10px;
+}
+.note {
+  width: 100%;
+  height: 10px;
+  background: #f5f5f5;
+  margin-top: 26px;
+}
+
+.foot-slide {
+  width: 100%;
+  border-bottom: 1px solid #ccc;
+  padding: 14px 0;
+  padding-left: 12px;
+}
+.foot-slide dl {
+  width: 100%;
+  display: flex;
+  box-sizing: border-box;
+}
+.foot-slide dl dt {
+  width: 40%;
+}
+.foot-slide dl dd {
+  margin-left: 12px;
+}
+
+.pic {
+  width: 120px;
+  height: 120px;
+}
+.span {
+  font-size: 15px;
+}
+.bg {
+  background: #fc6120;
+  color: #fff;
+  padding: 2px 10px;
+  border-radius: 10px;
+  font-size: 10px;
+  margin-left: 8px;
+}
+.bg2 {
+  background: #fc6120;
+  color: #fff;
+  padding: 2px 10px;
+  border-radius: 10px;
+  font-size: 12px;
+  margin-left: 58px;
+}
+.got {
+  margin-top: 8px;
+}
+.hot {
+  border: 1px solid #fc6120;
+  color: #fc6120;
+  padding: 4px;
+  font-size: 4px;
+}
+.hot2 {
+  border: 1px solid #fc6120;
+  color: #fc6120;
+  padding: 4px;
+  font-size: 13px;
+  display: inline-block;
+  margin-left: 8px;
+  font-size: 4px;
+}
+.font {
+  margin-top: 6px;
+  font-size: 14px;
+}
+.color {
+  color: #fc6120;
+  font-size: 10px;
+}
+.pjia {
+  color: #c8c8c8;
+  font-size: 10px;
+}
+.font1 {
+  color: #fc6120;
+  margin-left: 24px;
+  font-size: 13px;
+}
+.size {
+  font-size: 20px;
+  font-weight: normal;
+}
+.mt {
+  margin-top: 22px;
+  color: #c8c8c8;
+  font-size: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+.p1 {
+  color: #fc6120;
+  font-weight: normal;
+}
+.p2 {
+  color: #c8c8c8;
+  font-weight: normal;
+}
+.p3 {
+  color: #fc6120;
+  font-weight: normal;
+  margin-left: 4px;
+  margin-top: 8px;
+  display: inline-block;
+}
+.v1 {
+  font-size: 16px;
+}
+.v2 {
+  font-weight: normal;
+}
+.v0 {
+  font-weight: normal;
+}
