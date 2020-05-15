@@ -3,6 +3,7 @@
     <p>全部城市</p>
     <p>综合排序</p>
     <p>预定时限</p>
+    <p>时间大小</p>
   </div>
 </template>
 <script>
