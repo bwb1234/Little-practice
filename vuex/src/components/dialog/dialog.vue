@@ -6,7 +6,7 @@
 </template>
 <script>
 	export default {
-	    name: "Dialog111"
+	    name: "Dialog1112张三"
 	}
 </script>
 <style>
