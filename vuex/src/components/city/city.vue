@@ -8,7 +8,7 @@
 </template>
 <script>
 export default {
-  name: "city"
+  name: "city222444"
 };
 </script>
 <style>
