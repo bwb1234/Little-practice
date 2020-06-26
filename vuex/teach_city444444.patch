@@ -1,0 +1,16 @@
+Index: vuex/src/components/city/city.vue
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- vuex/src/components/city/city.vue	(revision ea15feeb6bb40e365ce3fe9889033bfeaf0d4c14)
++++ vuex/src/components/city/city.vue	(date 1593058865752)
+@@ -8,7 +8,7 @@
+ </template>
+ <script>
+ export default {
+-  name: "city222444"
++  name: "city222444211"
+ };
+ </script>
+ <style>

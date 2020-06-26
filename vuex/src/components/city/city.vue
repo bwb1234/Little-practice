@@ -4,6 +4,7 @@
     <p>综合排序</p>
     <p>预定时限</p>
     <p>时间大小</p>
+    <p>所在内容</p>
   </div>
 </template>
 <script>
